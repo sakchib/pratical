@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+
+console.log("Fontend is added")
+console.log("backend")
+=======
+console.log("Fontend")
+console.log("backend is added")
+>>>>>>> branch2
+console.log("data base")
